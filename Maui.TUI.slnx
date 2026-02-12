@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/Maui.TUI.Sample/Maui.TUI.Sample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Maui.TUI/Maui.TUI.csproj" />
+  </Folder>
+</Solution>
