@@ -4,6 +4,8 @@ A terminal UI backend for [.NET MAUI](https://github.com/dotnet/maui). Write you
 
 Built on [XenoAtom.Terminal.UI](https://xenoatom.github.io/terminal/) for high-performance terminal rendering.
 
+https://github.com/user-attachments/assets/44014b7f-0c05-4907-893a-5ae9bf7dc151
+
 ## Features
 
 - **Full MAUI handler pipeline** — uses the standard `ViewHandler<TVirtualView, TPlatformView>` architecture, no fork required
